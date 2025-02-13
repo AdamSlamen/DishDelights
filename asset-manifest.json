@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Recepty/static/css/main.5ebb35a7.css",
+    "main.js": "/Recepty/static/js/main.40f7b449.js",
+    "index.html": "/Recepty/index.html",
+    "main.5ebb35a7.css.map": "/Recepty/static/css/main.5ebb35a7.css.map",
+    "main.40f7b449.js.map": "/Recepty/static/js/main.40f7b449.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ebb35a7.css",
+    "static/js/main.40f7b449.js"
+  ]
+}
